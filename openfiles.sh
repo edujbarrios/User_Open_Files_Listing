@@ -2,7 +2,7 @@
 
 #############################################################
 
-# @author: Eduardo José Barrios García
+# @author: Eduardo José Barrios García - alu0101341019@ull.edu.es
  # @Bbrief: This program, provides count of open files and oldest process for all logged-in users on a detrminate system where this code will be running.
  # Begin:
  
